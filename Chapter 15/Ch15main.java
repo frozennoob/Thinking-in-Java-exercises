@@ -1,0 +1,72 @@
+import java.util.*;
+
+public class Ch15main {
+
+	public static void main(String[] args) {
+		Ex1.start();
+		System.out.println();
+		Ex3.start();
+		System.out.println();
+		Ex4.start();
+		System.out.println();
+		Ex5.start();
+		System.out.println();
+		Ex6.start();
+		System.out.println();
+		Ex7.start();
+		System.out.println();
+		Ex8.start();
+		System.out.println();
+		Ex9.start();
+		System.out.println();
+		Ex11.start();
+		System.out.println();
+		Ex13.start();
+		System.out.println();
+		Ex14.start();
+		System.out.println();
+		Ex15.start();
+		System.out.println();
+		Ex17.start();
+		System.out.println();
+		Ex18.start();
+		//System.out.println();
+		//Ex19.start();
+		System.out.println();
+		Ex20.start();
+		System.out.println();
+		Ex21.start();
+		System.out.println();
+		Ex22.start();
+		System.out.println();
+		Ex23.start();
+		System.out.println();
+		Ex25.start();
+		System.out.println();
+		Ex26.start();
+		System.out.println();
+		Ex27.start();
+		System.out.println();
+		Ex28.start();
+		System.out.println();
+		Ex29.start();
+		System.out.println();
+		Ex30.start();
+		System.out.println();
+		Ex31.start();
+		System.out.println();
+		Ex34.start();
+		Ex35.start();
+		System.out.println();
+		Ex36.start();
+		System.out.println();
+		Ex37.start();
+		System.out.println();
+		Ex38.start();
+		System.out.println();
+		Ex39.start();
+		System.out.println();
+		Ex42.start();
+	}
+
+}
